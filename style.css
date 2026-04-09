@@ -21,6 +21,7 @@ body{
     background-color: white;
     border-radius: 24px;
     max-width: 350px;
+    padding: 16px;
 }
 
 .drawer img{
@@ -32,7 +33,11 @@ body{
 .text{
     padding: 16px;
 }
-
+.author{
+    display: flex;
+    align-items: center;
+    
+}
 .footer{
     display: flex;
     align-items: center;
